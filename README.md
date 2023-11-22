@@ -1,4 +1,4 @@
-### Olá! Sou o Eduardo Felichak
+### Olá! Pode me chamar de Du;
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-felichak-7b0553239/)
 
