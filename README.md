@@ -20,7 +20,7 @@
 <h2 align="center" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,javascript,nodejs,ts,react,python,docker,postgres,prisma,vscode,github,git,jenkins"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,react,python,docker,postgres,prisma,vscode,github,git,jenkins"/>
 </div>
 
   ##
